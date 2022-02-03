@@ -40,3 +40,31 @@ HTML, CSS, JavaScript, React
 Machile Learning.
 C, C++, Java, Python
 Data Structure and Algorithms
+
+
+## Technology used
+Python as Programming language
+Tkinter library of Python for interface
+Opencv to capture image at realtime
+easyocr to extract text from image
+face_recognition for detection of faces
+Mongodb to store information as backend
+
+
+
+## Features
+
+- Automatic Attendence System
+- If the face is of existing person then it calls out it's name
+- If it's unknown face then it says 'unknown Face' and gives open to save it
+- Low System Requirements 
+- Cross platform
+
+## Screenshots
+
+![Capture](https://user-images.githubusercontent.com/74055996/152435988-000c6244-7254-4d00-a8e3-34ffaa16428a.PNG)
+
+![image](https://user-images.githubusercontent.com/74055996/152436166-0a4cf33b-11f0-4896-ba3c-47fdf45d0557.png)
+
+![image](https://user-images.githubusercontent.com/74055996/152436924-28b191a8-f286-47a5-ae31-277b833e9313.png)
+
