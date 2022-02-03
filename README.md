@@ -8,8 +8,9 @@ The encodings of the image is saved in pickel file to make model faster (it does
 
 
 ## 🚀 About Me
-I am a full stack developer and Machine learning enthusiastic.
-I am quick learner with ability to formulate solutions with a keen sense of attention to detail. 
+### Hi, I am Samir Alam! 👋
+Currently pursuing B.Tech degree in Computer Science and Engineering at Punjab Engineering College (Deemed To Be University), Chandigarh.
+A full stack developer and Machine learning enthusiastic,quick learner with ability to formulate solutions with a keen sense of attention to detail. 
 
 
 ## 🔗 Links
@@ -26,9 +27,8 @@ I am quick learner with ability to formulate solutions with a keen sense of atte
 6. pip install urllib3 (https://pypi.org/project/urllib3/)
 
 
-# Hi, I am Samir Alam! 👋
 
-Currently pursuing B.Tech degree in Computer Science and Engineering at Punjab Engineering College (Deemed To Be University), Chandigarh.
+
 
 ## Authors
 
