@@ -43,12 +43,12 @@ Data Structure and Algorithms
 
 
 ## Technology used
-Python as Programming language
-Tkinter library of Python for interface
-Opencv to capture image at realtime
-easyocr to extract text from image
-face_recognition for detection of faces
-Mongodb to store information as backend
+- Python as Programming language
+- Tkinter library of Python for interface
+- Opencv to capture image at realtime
+- easyocr to extract text from image
+- face_recognition for detection of faces
+- Mongodb to store information as backend
 
 
 
